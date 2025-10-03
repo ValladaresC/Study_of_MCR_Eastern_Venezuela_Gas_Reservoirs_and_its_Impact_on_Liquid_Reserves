@@ -20,6 +20,9 @@ El volumen de condensado retrógrado máximo (MCR) es un parámetro crucial en l
 
 Se me ocurrió desarrollar una correlación basada en las principales características que más influyen en el MCR. Para ello, contaba con cientos de pruebas realizadas anteriormente en yacimientos de gas del oriente venezolano.
 
+<img width="414" height="312" alt="Max_Condesate_Retrograde" src="https://github.com/user-attachments/assets/51c49666-2222-47bf-a33b-cb0d0d81a0f1" />
+
+
 Realicé este análisis de datos con Microsoft Excel. Primero, recopilé 147 pruebas, que fueron validadas, y solo 71 se utilizaron para las correlaciones. Mediante diagramas de dispersión, pude observar la relación entre varios parámetros y el MCR. Luego, utilicé la regresión lineal para obtener la ecuación y el coeficiente de determinación o R cuadrado para evaluar el ajuste.
 
 La correlación arrojó el mejor resultado predictivo, con una precisión del 90%. Esto mejoró los planes de explotación y los cálculos de reservas de condensado en yacimientos sin pruebas de laboratorio disponibles. Se llegaron a otras conclusiones técnicas; sin embargo, en términos financieros, este estudio ahorró miles de dólares a la empresa.
