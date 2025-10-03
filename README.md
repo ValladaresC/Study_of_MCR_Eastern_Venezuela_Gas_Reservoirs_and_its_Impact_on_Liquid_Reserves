@@ -8,6 +8,8 @@ I ran this data analysis process using Microsoft Excel. Firstly, I gathered 147 
 
 The correlation yielded the best predictive result, with 90% accuracy. That improved exploitation plans and condensate reserve calculations in reservoirs without available laboratory tests. Other technical conclusions were reached, however in financial terms, this study saved thousands of dollars to the company. 
 
+<img width="414" height="312" alt="Max_Condesate_Retrograde" src="https://github.com/user-attachments/assets/d8043bb2-b975-44fb-9aac-ef2253998029" />
+
 # Estudio del Máximo Condesado Retrógrado en los Yacimientos de Gas del Oriente de Venezuela y su impacto sobre las reservas de líquido
 
 El estudio fue realizado en el Oriente de Venezuela, que es una de las más importantes áreas de explotación gasífera, un gran número de sus yacimientos son de gas condensado, con reservas primarias de condensado estimadas en 10x109 BN, convirtiendo esta región en un foco de atención por su importancia energética y comercial. 
@@ -19,9 +21,6 @@ Su conocimiento es limitado, ya que solo se obtiene por medio de los estudios de
 El volumen de condensado retrógrado máximo (MCR) es un parámetro crucial en la producción de yacimientos de condensado de gas, y obtenerlo mediante pruebas de laboratorio resulta muy difícil y costoso. Esta prueba PVT podía costar 50.000 dólares por muestra. Cuando los especialistas necesitaron calcular el MCR, utilizaron una correlación generada en 1985 para yacimientos ubicados en otros países con diferentes condiciones y propiedades. Por lo tanto, los resultados distaban mucho de la realidad.
 
 Se me ocurrió desarrollar una correlación basada en las principales características que más influyen en el MCR. Para ello, contaba con cientos de pruebas realizadas anteriormente en yacimientos de gas del oriente venezolano.
-
-<img width="414" height="312" alt="Max_Condesate_Retrograde" src="https://github.com/user-attachments/assets/51c49666-2222-47bf-a33b-cb0d0d81a0f1" />
-
 
 Realicé este análisis de datos con Microsoft Excel. Primero, recopilé 147 pruebas, que fueron validadas, y solo 71 se utilizaron para las correlaciones. Mediante diagramas de dispersión, pude observar la relación entre varios parámetros y el MCR. Luego, utilicé la regresión lineal para obtener la ecuación y el coeficiente de determinación o R cuadrado para evaluar el ajuste.
 
