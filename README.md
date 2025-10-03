@@ -1,4 +1,4 @@
-# Study_of_MCR_of_Eastern_Venezuela_Gas_Reservoirs_and_its_Impact_on_Liquid_Reserves
+# Study of the Maximum Retrograde Condensate of Eastern Venezuela Gas Reservoirs and its Impact on Liquid Reserves
 
 The volume of maximum retrograde condensate (MCR) is a crucial parameter in the production of gas condensate reservoirs and it’s so difficult and costly to obtain it through laboratory tests. This PVT test could cost 50,000 dollars per sample. When the specialists needed to calculate the MCR, they used a correlation generated in 1985 for reservoirs located in other countries with different conditions and properties. So, the results were so far from reality. 
 
